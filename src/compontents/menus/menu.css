@@ -1,0 +1,19 @@
+.menu{
+    display: flex;
+    gap:18px;
+    width: fit-content;
+}
+
+.menu button{
+    margin-top: 18px;
+    border-radius: 15px;
+    padding: 0px 12px;
+    background-color: royalblue;
+    border: 2px solid salmon;
+    color: black;
+}
+
+.menu button:hover{
+    background-color: salmon;
+    border-color: royalblue;
+}
